@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/apt-repo.gpg] https://amphe.co.uk/apt-repo ./
+deb [signed-by=/etc/apt/trusted.gpg.d/apt-repo.gpg] https://os.amphe.co.uk/ ./
