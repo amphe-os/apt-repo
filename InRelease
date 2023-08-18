@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 18 Aug 2023 00:04:42 +0000
+MD5Sum:
+ aee319090857e807b690e4174ac2f245              965 Packages
+ 23ed1c17c6f0e00478b0ceff24c9df8c              631 Packages.gz
+ b744ac193ef779fb5540431cdaf07c72               38 Release
+SHA1:
+ 82a205a4239456eec43c3c719b6eeca9ebd75d24              965 Packages
+ ee10341bf772d571fe9098b5b095f983b75d83ca              631 Packages.gz
+ 50642f9db0a80374e9a05d772a60988d8e370175               38 Release
+SHA256:
+ dcfc11cd30ddbea778293cf4d4b39875bcb1b9a21884af7063eedd9683551870              965 Packages
+ 0909a3d129131c4c73d6766af8534326d5f9ee1dc29359ec9c1e57ec770fbc17              631 Packages.gz
+ 1bbbb5edf20bab2b04e94bfc8e12214f94e097375d7bfbf4d15c3bee24eb9b9f               38 Release
+SHA512:
+ 7f6d81fe3995a5f2f181b5812634f71ba9fa4145c31df4a021e8b01510e3f9487cbfbeb12c3a6f4410d5ca1fd74fbb26887ddd1161167f74b6d094ebf7e7fbcb              965 Packages
+ 62d4adaed2d9780c8a71a4194ab5dc005f7ae9a0124d82ba1ece4a4756941fd254b0bfd3ec63a87b5783b05fa8d88a247fd2bfbf72efcfc190864c86facab109              631 Packages.gz
+ dd953fc9d9758746eaadbbc0e98ce43291fc49fdd9ec697aaee220dbfb8abb320adf2c1e8b992866a8dd2ad5fba9e164063fc94ad2dd079670f2cb604dcc47ed               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJFBAEBCgAvFiEE5IMkDpaao5vjATtvRJbHiHVXluQFAmTetaERHGphY2tAYW1w
+aGUuY28udWsACgkQRJbHiHVXluTctQ//RiT6wNYpk849M9YcRQvX0v8eXGeixtRW
+pak9y/ecYCzZ6VBQlk/w2ZWu4nPSleJHHHiHljBlcWup9PjEPe/s1PuWLT4PH/qW
+I08LVWea6xPQA4Ry0lfyE2t2SPN7GrHm93u5CPj2FF4RqmSE6BxsOUm4h3bZT8KU
+xlnlau96nA3vSHmBIeDrAfbFXgsTA4WBXuiUmBSoiwYUNWoF896Vj77cKnY3WQG0
+o9F1XBNCV6q3dZApxjwjB1kPJpXxq3mcGbXvDnD6w2zdCKF0WLKDOmn3k3ktlggu
+5J7wV1ikM7ZAeoJJiPO601DMbnZrPoTHLG1fx0Ga4QBczZ/UE8gpeBQpeoxE19eD
+7Z2yGZc9jMWXNbpQSQk9H4zxhbEsC2V99XENGuPCZXTT2fj0syA3E5ZJa7PRREHu
+obANn2Edj1pdYtykjnYYZy3H12P1HOSYidV0RQ3IahWuY2DydjwhFBKNxOqdAS7a
+fN02/JFkoQeaDjAFcEqT1ZXR9p7Dzy5CfliqWUr++MWdbqzYsnMKRnkOx/2WWxo+
+jOE5sqBNvnJveVcRWxtvbsg1YiJbhbKpayh3M4rCNT1HGvkssJSXmuEJ+hVvLCMk
+BGkeFF+aTQq4am3u+gF+V4FXTa2TItTa8i2sXGWT7cb221Q/qMo8itzf12HJ8Iga
+RBuxjQGkSGY=
+=Hwbc
+-----END PGP SIGNATURE-----
