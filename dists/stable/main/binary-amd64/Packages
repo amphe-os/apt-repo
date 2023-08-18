@@ -1,0 +1,26 @@
+Package: hello
+Version: 2.10-3
+Architecture: amd64
+Maintainer: Santiago Vila <sanvila@debian.org>
+Installed-Size: 277
+Depends: libc6 (>= 2.34)
+Conflicts: hello-traditional
+Breaks: hello-debhelper (<< 2.9)
+Replaces: hello-debhelper (<< 2.9), hello-traditional
+Homepage: https://www.gnu.org/software/hello/
+Priority: optional
+Section: devel
+Filename: pool/main/h/hello/hello_2.10-3_amd64.deb
+Size: 53080
+SHA256: 2e6e2f1a0007dc43bc91c273fd36e91e40a4f1c2765a03eca68b70a42103878a
+SHA1: f322085c1e2f95e8febe24989f776cfac268ff90
+MD5sum: d04c2e9639dee67aa836d8232b1ca658
+Description: example package based on GNU hello
+ The GNU hello program produces a familiar, friendly greeting.  It
+ allows non-programmers to use a classic computer science tool which
+ would otherwise be unavailable to them.
+ .
+ Seriously, though: this is an example of how to do a Debian package.
+ It is the Debian version of the GNU Project's `hello world' program
+ (which is itself an example for the GNU Project).
+

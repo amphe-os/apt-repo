@@ -1,0 +1,16 @@
+Codename: stable
+Date: Fri, 18 Aug 2023 01:54:46 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 794931a60f59e44a754fb82ba0b5531b 982 main/binary-amd64/Packages
+ 99e4e8d8ffa92078e20f108f498557a3 627 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 63f8df6a57afb59a47240a4c8315b0df9c7692ec 982 main/binary-amd64/Packages
+ c4e6e402dd3b58665c5e0c8330f696cfa056799f 627 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 73ddc677ccb8317b4110548674d01abf653460657c54c3f5b619b487398d2209 982 main/binary-amd64/Packages
+ 227b24408521f81f7f8db3a5430035f3d70c1e7c8f74690b842ab9f38e30b82c 627 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
